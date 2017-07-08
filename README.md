@@ -1,4 +1,4 @@
-# Ethereum
+# Ethereum Token
 
 The token to exchange ether based on ERC #20
 
