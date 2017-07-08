@@ -1,17 +1,18 @@
 # Ethereum Token
 
-The token to exchange ether based on ERC #20
-
 
 The token to exchange ether based on ERC#20 in Ethereum wallet
 
--Total Supply (total token)
+- Total Supply (total token)
+
 The number of tokens is set by the publisher.
 
 - Receiver(person to buy token in ether)
+
 1 Ether : 100 Token.
 
--Mandatory policy
+- Mandatory policy
+
 Transcation is possible when the number of tokens is valid 
 
 
